@@ -357,8 +357,17 @@ button:hover    {
 
 @media (max-width: 500px) {
  
-   .selection-two{
+ .selection-two{
     text-align: justify;
+  
+    text-align: center;
+
+   }
+   .box{
+    width: 100%;
+
+
+ 
    }
     .selection-ONE{
   
