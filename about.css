@@ -51,10 +51,10 @@ a:hover {
 }
 .selection-two{
     width: 100%;
-padding: 40px;
-justify-content: center;
-align-items: center;
-display: grid;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   
 }
 
@@ -357,17 +357,8 @@ button:hover    {
 
 @media (max-width: 500px) {
  
- .selection-two{
+   .selection-two{
     text-align: justify;
-  
-    text-align: center;
-
-   }
-   .box{
-    width: 100%;
-
-
- 
    }
     .selection-ONE{
   
